@@ -1,5 +1,13 @@
-h1{
+h1 {
     font-size: 40px;
-    color: rgb(0, 196, 153);
+    font-family: 'Spectral', serif;
     font-style: italic;
+    color: rgb(0, 196, 153);
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+    line-height: 20px;
+    color: silver;
 }
