@@ -5,9 +5,13 @@ h1 {
     color: rgb(0, 196, 153);
 }
 
+body{
+    background-color: #b3cccc;
+}
+
 p {
     font-family: 'Indie Flower', cursive;
     font-size: 30px;
-    line-height: 20px;
+    line-height: 50px;
     color: silver;
 }
