@@ -53,6 +53,21 @@ p {
     margin-top: 20px;
 }
 
+.button-action{
+    border-style: double;
+    border-color: rgb(20, 83, 220);
+    background-color: rgb(255, 220, 255);
+    border-width: 2px;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    border-radius: 0px;
+    display: block;
+    width: 300px;
+    text-align: center;
+    margin-top: 20px;
+}
+
 .top-banner{
     height: 240px;
     text-align: center;
