@@ -1,3 +1,4 @@
+/* typography */
 h1 {
     font-size: 40px;
     font-family: 'Spectral', serif;
@@ -5,11 +6,13 @@ h1 {
     color: rgb(0, 196, 153);
 }
 
-h2{
+h2 {
+    font-size: 30px;
     color: silver;
+    text-shadow: 2px 2px #000000;
 }
 
-body{
+body {
     background-color: #b3cccc;
 }
 
@@ -18,4 +21,13 @@ p {
     font-size: 30px;
     line-height: 50px;
     color: rgb(0, 0, 0);
+}
+
+.button-links {
+    border-style: solid;
+    border-color: crimson;
+    background-color: cornsilk;
+    border-width: 2px;
+    text-decoration: none;
+    color: black;
 }
