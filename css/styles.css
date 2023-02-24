@@ -30,4 +30,25 @@ p {
     border-width: 2px;
     text-decoration: none;
     color: black;
+    padding: 5px;
+    border-radius: 12px;
+    display: block;
+    width: 300px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button-alert{
+    border-style: dotted;
+    border-color: rgb(20, 220, 47);
+    background-color: rgb(220, 253, 255);
+    border-width: 2px;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    border-radius: 0px;
+    display: block;
+    width: 300px;
+    text-align: center;
+    margin-top: 20px;
 }
