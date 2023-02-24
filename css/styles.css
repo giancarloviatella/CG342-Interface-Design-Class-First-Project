@@ -14,6 +14,7 @@ h2 {
 
 body {
     background-color: #b3cccc;
+    margin: 0;
 }
 
 p {
@@ -21,6 +22,12 @@ p {
     font-size: 30px;
     line-height: 50px;
     color: rgb(0, 0, 0);
+}
+
+footer {
+    height: 100px;
+    text-align: center;
+    padding: 10px 0;
 }
 
 .button-link {
@@ -38,7 +45,7 @@ p {
     margin-top: 20px;
 }
 
-.button-alert{
+.button-alert {
     border-style: dotted;
     border-color: rgb(20, 220, 47);
     background-color: rgb(220, 253, 255);
@@ -53,7 +60,7 @@ p {
     margin-top: 20px;
 }
 
-.button-action{
+.button-action {
     border-style: double;
     border-color: rgb(20, 83, 220);
     background-color: rgb(255, 220, 255);
@@ -68,20 +75,15 @@ p {
     margin-top: 20px;
 }
 
-.top-banner{
+.top-banner {
     height: 240px;
     text-align: center;
     padding-top: 110px;
     background-color: cornflowerblue;
 }
-.main-content{
-    width: 800px;
+
+.main-content {
+    max-width: 800px;
     margin: 0 auto;
     padding: 0 10px;
-}
-
-footer{
-    height: 100px;
-    text-align: center;
-    padding: 10px 0;
 }
