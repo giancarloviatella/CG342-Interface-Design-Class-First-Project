@@ -1,4 +1,8 @@
 /* typography */
+html{
+    scroll-behavior: smooth
+}
+
 h1 {
     font-size: 80px;
     font-family: 'Spectral', serif;
@@ -31,7 +35,10 @@ footer {
 }
 
 nav {
-    padding: 20px;
+    padding: 23px;
+    position: fixed;
+    width: 100%;
+    background: white
 
 }
 .nav-links{
