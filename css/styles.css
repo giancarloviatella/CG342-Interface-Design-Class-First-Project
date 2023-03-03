@@ -110,6 +110,7 @@ nav {
     padding-top: 40px;
     background-color: cornflowerblue;
     background-image: url("https://i.ytimg.com/vi/rndKFHgLj8k/maxresdefault.jpg");
+    background-size: cover;
 }
 
 .main-content {
