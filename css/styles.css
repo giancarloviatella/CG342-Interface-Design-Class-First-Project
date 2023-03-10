@@ -32,6 +32,8 @@ footer {
     height: 100px;
     text-align: center;
     padding: 10px 0;
+    text-align: center;
+    margin-top: 30px;
 }
 
 nav {
@@ -47,7 +49,7 @@ img{
 }
 
 .article-image{
-    width: 300px;
+    width: 810px;
 }
 
 .nav-links{
@@ -151,4 +153,9 @@ img{
     .top-banner{
         height: 200px;
     }
+    .article-image{
+        border: #999999;
+        
+    }
+
   }
