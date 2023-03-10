@@ -136,4 +136,10 @@ nav {
     h2{
         color: silver;
     }
+    p{
+        color: #999999;
+    }
+    .top-banner{
+        height: 200px;
+    }
   }
