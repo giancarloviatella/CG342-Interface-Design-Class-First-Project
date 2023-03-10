@@ -119,3 +119,21 @@ nav {
     margin: 0 auto;
     padding: 0 10px;
 }
+
+/* Mobile Styles*/
+
+@media only screen and (max-width: 600px) {
+    /*mobile syles go here*/
+    body {
+      background-color: #000000;
+    }
+    h1 {
+        font-size: 40px;
+        color: #00614C;
+        margin: 0 20px;
+    }
+
+    h2{
+        color: silver;
+    }
+  }
