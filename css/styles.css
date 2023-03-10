@@ -34,6 +34,7 @@ footer {
     padding: 10px 0;
     text-align: center;
     margin-top: 30px;
+    background-color: white;
 }
 
 nav {
@@ -155,7 +156,7 @@ img{
     }
     .article-image{
         border: #999999;
-        
+
     }
 
   }
