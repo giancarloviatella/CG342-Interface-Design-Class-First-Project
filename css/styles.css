@@ -42,6 +42,14 @@ nav {
 
 }
 
+img{
+    width: 100%
+}
+
+.article-image{
+    width: 300px;
+}
+
 .nav-links{
     list-style-type: none;
     margin: 0 auto;
